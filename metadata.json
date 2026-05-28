@@ -1,0 +1,6 @@
+{
+  "name": "PAUD Ceria Landing Page",
+  "description": "Website landing page cinematic berbasis Motion Graphic untuk video profil PAUD Ceria menggunakan GSAP dan Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
